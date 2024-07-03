@@ -28,7 +28,7 @@ export const Button = ({
             onClick={onClick}
             type={type}
             >
-                {children}
+            {children}
             </button>
         </Link>
     )
