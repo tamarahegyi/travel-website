@@ -31,7 +31,7 @@ function Cards() {
                 />
                 <CardItem 
                 src="/images/img-4.jpg"
-                text="Experience Football on Top of the Himilaya Montains"
+                text="Experience Football on Top of the Himalaya Montains"
                 label="Adventure"
                 path="/products"
                 />
